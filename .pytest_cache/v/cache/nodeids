@@ -1,6 +1,0 @@
-[
-  "test_check.py::test_ok",
-  "test_parser.py::test_bulk_parsing",
-  "test_parser.py::test_chaos_payload",
-  "test_parser.py::test_valid_payload"
-]
