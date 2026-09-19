@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Virtual environment
+venv/
+.venv/
+env/
+ENV/
+
+# pytest / coverage
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Generated output (keep directory, ignore contents)
+output/*.html
+output/*.log
+output/*.png
+output/*.md
+
+# Data files (large, machine-generated)
+data/telecom_traffic.jsonl
+data/scenarios.db
+
+# IDE / OS
+.vscode/
+.idea/
+*.DS_Store
+Thumbs.db
+
+# LangGraph / LangChain cache
+.langchain/
